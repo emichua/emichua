@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... creating a data-driven approach for customer-centric marketing
 - 🤔 I’m looking for help with ... anything related to data science
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... [email](yinxian900205@gmail.com)
+- 📫 How to reach me: ... [Email](yinxian900205@gmail.com)
+[Linkedin](https://www.linkedin.com/in/emi-chua-a2ba0b76/)
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I'm on a seafood diet. I see food, I eat it.
 -->
