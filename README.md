@@ -1,6 +1,7 @@
-### Hi I am Emi. I am currently working as Sales Manager in a pharmaceutical company. Besides chasing for sales numbers, I do sales analysis via Ms Excel to come out with accurate sales forecast & strategy. 
-Last year, I have reached a point where Excel couldn't satisfy my need for better sales analysis, I pursue data science to further improve my skill... 
+### Hi I am Emi. 
 
+I am currently working as Sales Manager in a pharmaceutical company. Besides chasing for sales numbers, I do sales analysis via Ms Excel to come out with accurate sales forecast & strategy. 
+Last year, I have reached a point where Excel couldn't satisfy my need for better sales analysis, I pursue data science to further improve my skill... 
 
 
 Here are some ideas to get you started:
