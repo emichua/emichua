@@ -3,9 +3,6 @@
 I am currently working as Sales Manager in a pharmaceutical company. Besides chasing for sales numbers, I do sales analysis via Ms Excel to come out with accurate sales forecast & strategy. 
 Last year, I have reached a point where Excel couldn't satisfy my need for better sales analysis, I pursue data science to further improve my skill... 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working in ... a pharmaceutical company
 - 🌱 I’m currently learning ... Data Science 
 - 👯 I’m looking to collaborate on ... creating a data-driven approach for customer-centric marketing
